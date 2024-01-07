@@ -1,5 +1,5 @@
 # UofTDSI_BuildingSoftware_SMC2324
-This is a Python package created for Assignment 3 as part of the for the UofT DSI Building Software course 23/24. 
+This is a Python package was created for Assignment 3 as part of the UofT DSI Building Software course 23/24. 
 It was completed by Suzanne Chalambalacis.
 
 ## Folder Structure:
